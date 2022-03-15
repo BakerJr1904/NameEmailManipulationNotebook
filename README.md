@@ -2,5 +2,7 @@
 
 Manipulation of Names and Emails using Pandas
 ### Things this notebook covers
-Import Pandas
+Importing Pandas<br/><br/>
+Creating a DataFrame named people
+
 
