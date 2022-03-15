@@ -15,3 +15,4 @@ Looking at the column headers value, type, and renaming.<br/>
 Using Upper, Lower, and Replace.<br/>
 Looking at pandas.core.series.Series type.<br/>
 Looking at the length of the emails.<br/>
+Creating a function to update (replace) the emails.<br/>
