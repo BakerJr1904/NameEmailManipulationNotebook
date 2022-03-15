@@ -9,3 +9,4 @@ Setting the email as the dataFram index.<br/>
 Pulling the lastName out of the dataFrame using "loc."<br/>
 Pulling the 0th index using "iloc."<br/>
 Taking the email out of the index.<br/>
+Creating a filter, and using it with "iloc."
