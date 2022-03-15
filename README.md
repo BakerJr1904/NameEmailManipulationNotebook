@@ -14,3 +14,4 @@ Creating various filters, and using them in different ways.<br/>
 Looking at the column headers value, type, and renaming.<br/>
 Using Upper, Lower, and Replace.<br/>
 Looking at pandas.core.series.Series type.<br/>
+Looking at the length of the emails.<br/>
