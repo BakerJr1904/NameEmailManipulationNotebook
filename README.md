@@ -28,6 +28,7 @@ Looking at pandas.core.series.Series type.<br/>
 Looking at the length of the emails.<br/>
 
 Creating a function to change (uppercase) the emails.<br/>
+
 Finding the length of each column.<br/>
 Finding the shortest string in each column with min and lambda.<br/>
 changing the values in the database to length of the string.<br/>
