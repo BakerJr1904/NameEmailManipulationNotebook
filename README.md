@@ -32,6 +32,7 @@ Creating a function to change (uppercase) the emails.<br/>
 Finding the length of each column.<br/>
 
 Finding the shortest string in each column with min and lambda.<br/>
+
 changing the values in the database to length of the string.<br/>
 Manipulation of the dataFrame in cool ways, and making other databases.<br/>
 ### Thank you for visiting my playful project 
