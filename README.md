@@ -3,6 +3,7 @@ Manipulation of Names and Emails using Python and Pandas<br/>
 ![python_pandas](https://user-images.githubusercontent.com/65743503/158489653-1e491daa-c214-4d7c-a59d-344d97259638.jpeg)<br/>
 
 ### Things this notebook covers
+
 Importing Pandas.<br/>
 
 Creating a DataFrame named people, with FirstName, LastName, and Email.<br/>
